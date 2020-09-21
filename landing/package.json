@@ -42,7 +42,7 @@
     "@types/stripe-v3": "3.1.9",
     "@types/styled-jsx": "2.2.8",
     "mkdirp": "0.5.1",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.1",
     "now": "16.7.1",
     "prettier": "1.18.2",
     "ts-node": "8.6.2",
